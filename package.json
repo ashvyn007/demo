@@ -1,0 +1,10 @@
+{
+    "name": "my-html-project",
+    "version": "1.0.0",
+    "description": "A simple HTML project",
+    "scripts": {
+      "start": "echo 'No server-side functionality, no start command needed.'"
+    },
+    "license": "ASH"
+  }
+  
